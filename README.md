@@ -11,6 +11,8 @@ Scripts for running a basic forward in time simulation, can be done by running t
 - **src/01_read_data.py** : transforms, filters and harmonizes the data
 - **src/02_exploratory_data_analysis_picks.ipynb** : finds paterns in pick data
 - **src/03_exploratory_data_analysis_trajectory.ipynb**: finds paterns in GPS data
-- **src/04_results**: 
+- **src/04_results**: containing all final analysis and graphs
+
+
 
 
